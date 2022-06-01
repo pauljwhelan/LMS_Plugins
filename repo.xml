@@ -6,7 +6,7 @@
     <plugin name="Sprocket" version="0.4" minTarget="7.4" maxTarget="*">
       <title lang="EN">Sprocket</title>
       <desc lang="EN">Pocket Casts plugin (Requires Plus subscription)</desc>
-      <url>https://github.com/pauljwhelan/Sprocket/Sprocket_0.4.zip</url>
+      <url>https://raw.githubusercontent.com/pauljwhelan/LMS_Plugins/main/Sprocket_0.4.zip</url>
       <creator>Paul</creator>
       <email>pauljwhelan@gmail.com</email>
       <sha>68e6c7a1d6c08dd056393255ba38faa650b85af7</sha>
